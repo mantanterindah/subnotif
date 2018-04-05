@@ -1,0 +1,17 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "tesbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "tenuzholic",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.2.1",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
