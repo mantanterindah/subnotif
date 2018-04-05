@@ -16,7 +16,7 @@ bot.on('ready', (message) => {
 		//console.log('ready!')
 		if (tempUser!=msg) {
 				
-				bot.user.get('309003371531075594').send('```'+'css'+'\n'+msg+'```')
+				bot.user.get('309003371531075594').send('```'+'\n'+'VENDOR'+'\n'+msg+'```')
 			
 		}
 		tempUser=msg;
